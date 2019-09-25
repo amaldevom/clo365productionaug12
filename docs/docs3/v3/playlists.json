@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "7a766ee3-271c-4741-9cfd-3a40c066a024",
+    "Title": "Playlist3",
+    "Image": "",
+    "LevelId": "f033eff0-7a77-4e3c-acbb-4d66db09c671",
+    "AudienceId": "493b5eb4-c901-40cc-bd84-16636a53c110",
+    "TechnologyId": "7f28b1ed-e6e1-493b-9ca8-4dffa380c5cd",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "",
+    "StatusTagId": "14ff2967-67c4-4886-a38e-32a0b0e099c9",
+    "StatusNote": "",
+    "Assets": [
+      "6b22e1b9-d95c-4c0c-8ee9-437f046bc539"
+    ]
+  }
+]
